@@ -1,0 +1,7 @@
+# Example overrides
+location                    = "East US"
+vm_size                     = "Standard_B2s"
+admin_username              = "azureuser"
+admin_password              = "P@ssword123456789!"
+update_schedule_start_time_utc = "2025-08-17T03:00:00Z"
+update_schedule_time_zone      = "UTC"
